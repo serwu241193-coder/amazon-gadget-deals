@@ -1,0 +1,55 @@
+[
+  {
+    "id": "demo-001",
+    "slug": "smartphone-halterung",
+    "title": "Smartphone-Halterung fürs Auto",
+    "category": "Auto & Zubehör",
+    "description": "Beispiel-Deal für die spätere Automatisierung.",
+    "benefits": [
+      "Kompakt",
+      "Praktisch"
+    ],
+    "priceText": "Preis beim Händler prüfen",
+    "affiliateUrl": "#",
+    "imageUrl": "",
+    "videoUrl": "",
+    "publishedAt": "2026-09-08",
+    "source": "demo",
+    "status": "published"
+  },
+  {
+    "id": "demo-002",
+    "slug": "powerbank",
+    "title": "Kompakte Powerbank",
+    "category": "Elektronik",
+    "description": "Beispiel für einen später automatisiert veröffentlichten Deal.",
+    "benefits": [
+      "Mobil",
+      "Kompakt"
+    ],
+    "priceText": "Preis beim Händler prüfen",
+    "affiliateUrl": "#",
+    "imageUrl": "",
+    "videoUrl": "",
+    "publishedAt": "2026-09-08",
+    "source": "demo",
+    "status": "published"
+  },
+  {
+    "id": "demo-003",
+    "slug": "reinigungsset",
+    "title": "Reinigungsset",
+    "category": "Haushalt",
+    "description": "Platzhalter für die spätere Make.com-Anbindung.",
+    "benefits": [
+      "Vielseitig"
+    ],
+    "priceText": "Preis beim Händler prüfen",
+    "affiliateUrl": "#",
+    "imageUrl": "",
+    "videoUrl": "",
+    "publishedAt": "2026-09-08",
+    "source": "demo",
+    "status": "published"
+  }
+]

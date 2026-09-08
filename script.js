@@ -1,0 +1,2 @@
+
+async function loadDeals(id){const el=document.getElementById(id);if(!el)return;const r=await fetch('deals.json');const ds=await r.json();el.innerHTML=ds.map(d=>`<article class="card"><div class="media">Produktbild / Video</div><div class="card-body"><span class="tag">${d.category}</span><h3>${d.title}</h3><p>${d.description}</p><strong>${d.priceText}</strong><br><a class="button" href="${d.affiliateUrl||'#'}" rel="nofollow sponsored">Deal ansehen</a></div></article>`).join('')}
